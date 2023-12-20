@@ -40,7 +40,7 @@ a:focus {
 
 .btn {
   padding: 12px 25px;
-  font-size: 14px;
+  font-size: 24px;
   font-weight: 600;
   letter-spacing: 1px;
   color: #ffffff;
@@ -251,7 +251,7 @@ a:focus {
   position: relative;
   width: 100%;
   margin-bottom: 45px;
-  padding: 290px 0 0 0;
+  padding: 280px 0 0 0;
   overflow: hidden;
   background: linear-gradient(rgba(239, 35, 60, 0.95), rgba(239, 35, 60, 0.95)),
     url(../img/hero-bg.jpg);
@@ -324,7 +324,7 @@ a:focus {
 }
 
 .hero .hero-btn .btn:first-child {
-  margin-right: 10px;
+  margin-right: 1px;
 }
 
 @media (max-width: 991.98px) {
@@ -1515,7 +1515,7 @@ a:focus {
 
 .footer .footer-social a i {
   margin-right: 15px;
-  font-size: 20px;
+  font-size: 28px;
   color: #ffffff;
   transition: 0.3s;
 }
